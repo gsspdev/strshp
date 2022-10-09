@@ -1,0 +1,3 @@
+[submodule "str-map"]
+	path = str-map
+	url = https://github.com/gsspdev/str-map.git
